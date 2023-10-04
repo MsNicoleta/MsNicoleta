@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicoleta</h1>
-<h3 align="center">A passionate frontend developer from London Quick learning web developer with a year of self-taught experience and recently successfully graduated from Le Wagon’s intensive Web Development Boot-camp. Sharp-eyed for good front-end implementation and expanding back-end knowledge. Passionate for accessibility and sustainable solutions. I'm passionate about watercolor painting and customizing clothing, and I absolutely love serene nature walks. My ideal day starts with an energizing early morning yoga session – it's the perfect way to kick things off!</h3>
+<h3 align="center">A passionate frontend developer from London Quick learning web developer with a year of self-taught experience and recently successfully graduated from Le Wagon’s intensive Web Development Boot-camp. Sharp-eyed for good front-end implementation and expanding back-end knowledge. Passionate for accessibility and sustainable solutions.
+  <br>I'm passionate about watercolor painting and customizing clothing, and I absolutely love serene nature walks. My ideal day starts with an energizing early morning yoga session – it's the perfect way to kick things off!</h3>
 
 - 🌱 I’m currently learning **React, JavaScript, Typescript**
 
