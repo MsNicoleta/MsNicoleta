@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicoleta</h1>
 <h3 align="center">As a frontend developer based in the vibrant city of London, I bring a unique blend of creativity and technical skills to my work. I pride myself on being a quick learner, having gained a year of self-taught experience in web development. This foundation was further solidified when I graduated from Le Wagon’s intensive Web Development Boot-camp, a program known for its rigorous curriculum and high standards.<br><br> I’m a passionate frontend developer with a love for learning, a commitment to accessibility and sustainability, and a rich life outside of work. Whether I’m coding a new website, painting a watercolor masterpiece, or practicing yoga, I bring enthusiasm and dedication to everything I do.</h3>
 
-- 🌱 I’m currently learning **React, JavaScript, Typescript**
+- 🌱 I’m currently learning **React, JavaScript, Figma,  Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
